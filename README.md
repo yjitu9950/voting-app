@@ -1,1 +1,1 @@
-# voting-app
+Project for creating Solidity Contracts and use them in the UI using  Bloackchain Etherium.
